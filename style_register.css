@@ -1,0 +1,31 @@
+* {
+  background-color: rgb(255, 255, 255);
+}
+
+.content {
+  display: flex;
+  border: 1px solid black;
+  box-shadow: black 2px 2px 2px;
+  padding: 20px;
+  margin-left: 503px;
+  border-radius: 10px;
+  width: 100vh;
+  margin-top: 139px;
+}
+.genders {
+  display: flex;
+}
+input {
+  margin: 10px;
+}
+button {
+  background-color: rgb(238, 80, 80);
+  height: 40px;
+  width: 200px;
+}
+button:hover {
+  background-color: grey;
+}
+* {
+  background-color: aliceblue;
+}
